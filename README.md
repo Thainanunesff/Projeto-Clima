@@ -3,7 +3,6 @@ Consulta meteorológica (HTML, CSS, JS, OpenWeatherMap API) com busca de cidades
 # 🌦️ Previsão do Tempo App
 
 ## 📝 Descrição
----
 
 Este projeto faz parte do meu portfólio de desenvolvimento web, demonstrando a aplicação prática de HTML, CSS e JavaScript na construção de interfaces interativas e responsivas que consomem APIs externas.
 
