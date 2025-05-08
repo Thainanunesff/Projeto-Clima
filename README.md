@@ -1,6 +1,5 @@
-# ProjetoClimaTempo
+# Projeto 🌦️ Previsão do Tempo App
 Consulta meteorológica (HTML, CSS, JS, OpenWeatherMap API) com busca de cidades e interface responsiva. 
-# 🌦️ Previsão do Tempo App
 
 ## 📝 Descrição
 
