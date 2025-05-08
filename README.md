@@ -7,7 +7,7 @@ Consulta meteorológica (HTML, CSS, JS, OpenWeatherMap API) com busca de cidades
 
 Este projeto faz parte do meu portfólio de desenvolvimento web, demonstrando a aplicação prática de HTML, CSS e JavaScript na construção de interfaces interativas e responsivas que consomem APIs externas.
 
-➡️ **Confira o projeto online:** [LINK_DO_SEU_PROJETO_HOSPEDADO_AQUI]
+➡️ **Confira o projeto online:** https://thainanunesff.github.io/Projeto-Clima/
 ---
 
 ## ✨ Funcionalidades Principais
